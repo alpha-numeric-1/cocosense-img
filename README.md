@@ -13,7 +13,7 @@ Follow these steps after cloning the repository.
 It's best to work inside a virtual environment to avoid dependency conflicts.
 
 # Navigate to your project directory
-cd F:/cocosense
+cd {project folder path e.g. F:/cocosense}
 
 # Create a virtual environment using Python 3.10
 python3.10 -m venv venv
@@ -54,3 +54,4 @@ Let me know if you'd like to add logging, batch processing, or a GUI layer to th
 ├── requirements.txt        # Python dependencies
 
 └── README.md    
+
